@@ -1,10 +1,9 @@
-# Bank and ATM Management System 💳🏦
+# Bank and ATM Management System 
 
 A console-based C++ project that simulates basic banking operations along with ATM-style functionality. This was created for learning purposes and showcases file handling, class-based design, and clean terminal UI.
 
----
 
-## 🚀 Features
+# Features
 
 - Create new bank accounts
 - Deposit and withdraw money
@@ -13,40 +12,13 @@ A console-based C++ project that simulates basic banking operations along with A
 - Search by account number
 - File-based data persistence (no database required)
 
----
 
-## 🧠 Concepts Used
+
+# Concepts Used
 
 - C++ (OOP, Classes, Functions)
 - File Handling with `fstream`
 - CLI Menus and input control
 - Header and source file modularity
 
----
-
-## 🛠 How to Run Locally
-
-### 1. Clone this repo:
-```bash
-git clone https://github.com/tyagiji369/Bank-and-ATM-Management.git
-cd Bank-and-ATM-Management
-g++ bank.cpp -o bank
-./bank
----
-
-## ✅ Step 3: Save the File
-
-Inside nano:
-- Press `Ctrl + O` → then `Enter` to save
-- Press `Ctrl + X` to exit
-
----
-
-## ✅ Step 4: Commit and Push
-
-In Terminal:
-```bash
-git add README.md
-git commit -m "Added professional README"
-git push
 
