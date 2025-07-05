@@ -1,7 +1,11 @@
-# Bank and ATM Management System 
+#  Bank & ATM Console App in C++ — by Akshit Tyagi
 
-A console-based C++ project that simulates basic banking operations along with ATM-style functionality. This was created for learning purposes and showcases file handling, class-based design, and clean terminal UI.
+This is a simple console-based C++ project I built to understand object-oriented programming, file handling, and menu-driven CLI design. The app simulates core banking operations like deposits, withdrawals, and balance inquiry — all with persistent file storage, without using a database.
 
+This project helped me practice:
+- OOP concepts like encapsulation and class-based architecture
+- File handling using fstream for storing account data
+- Building a user-friendly terminal-based interface
 
 # Features
 
